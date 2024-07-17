@@ -1,0 +1,6 @@
+@SysMiddle_HostAddress = http://localhost:5228
+
+GET {{SysMiddle_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
